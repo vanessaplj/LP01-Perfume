@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github - Learning Path 01 - Perfume - Files](https://github.com/vanessaplj/LP01-Perfume)
-- Live Site URL: [Github Pages - Learning Path 01 - Perfume](https://your-live-site-url.com)
+- Live Site URL: [Github Pages - Learning Path 01 - Perfume](https://vanessaplj.github.io/LP01-Perfume/)
 
 ## My process
 

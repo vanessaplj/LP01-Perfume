@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github - Learning Path 01 - Perfume - Files](https://github.com/vanessaplj/LP01-Perfume)
+- Live Site URL: [Github Pages - Learning Path 01 - Perfume](https://your-live-site-url.com)
 
 ## My process
 
